@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ylu4n___)
 
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=yLu4n&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yLu4n&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yLu4n&hide_progress=compact)
 
 ## Tecnologias utilizadas:
 
