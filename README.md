@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luan-victor-borges)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ylu4n___)
 <div>
-  <a href= "https://github.com/yLu4n"
+  <a href= "https://github.com/yLu4n">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=yLu4n&show_icons=true&theme=dracula">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLu4n&layout=compact&theme=dracula">
 </div>
