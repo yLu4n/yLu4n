@@ -1,7 +1,7 @@
 ### Olá! Eu sou Luan Victor 🖖
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luan-victor-borges) 
-[![LGitHub]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white))](https://github.com/yLu4n)
+[![GitHub]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white))](https://github.com/yLu4n)
 
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=yLu4n&show_icons=true&theme=dracula)
 
