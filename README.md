@@ -8,14 +8,11 @@
 <br/>
 <br/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luan-victor-borges)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ylu4n___)
 <div align= "center">
   <a href= "https://github.com/yLu4n">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yLu4n&show_icons=true&theme=dracula">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLu4n&layout=compact&theme=dracula">
 </div>
-
 
 ## Tecnologias utilizadas:
 
@@ -35,4 +32,7 @@
   <img align= "center" alt= "sqlserver" src= "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div><br/>
 
-Desenvolvedor back-end e estudante de Engenharia de Software, explorando o potencial dos dados para transformar informações em valor.
+<div align = "center">
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luan-victor-borges)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ylu4n___)
+</div>
