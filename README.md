@@ -17,7 +17,7 @@
 ## Tecnologias utilizadas:
 
 <div aling= "center">
-  <h1> Back-end </h1>
+  <h1>                           Back-end </h1>
 </div>
 
 <div style= "display: inline_block"><br/>
