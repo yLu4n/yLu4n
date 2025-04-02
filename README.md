@@ -28,7 +28,9 @@
   <img align = "center" alt= "spring security" src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=Spring-Security&logoColor=white">
 </div><br/>
 
+<div style= "display: inline_block"><br/>
   <img align= "center" alt= "mysql" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align= "center" alt= "sqlserver" src= "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+</div><br/>
 
 Desenvolvedor back-end e estudante de Engenharia de Software, explorando o potencial dos dados para transformar informações em valor.
