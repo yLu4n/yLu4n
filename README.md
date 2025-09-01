@@ -10,8 +10,8 @@
 
 <div align= "center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yLu4n&show_icons=true&theme=dracula">
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=yLu4n&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLu4n&layout=compact&theme=dracula">
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=yLu4n&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&theme=dracula"/>
 </div>
 
 ### Tecnologias:
